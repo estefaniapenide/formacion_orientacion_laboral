@@ -1,0 +1,3 @@
+pg 45 cuadro daños según el nivel de intensidad --> NO ENTRA
+pg 45 cuadro medidas de proteccióm ferete a contactos indirectos --> NO ENTRA
+pg 53 cuadro ed daños --> NO ENTRA
