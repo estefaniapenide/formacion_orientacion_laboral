@@ -1,0 +1,69 @@
+trabajador grupo 2 cotizacion
+19 años de antigüedad
+sb=1081,82
+plus antigueradda =108,18
+plus responsabilidad=240,40
+2 pagas extra de sb +antiguedad, no están prorrateads
+2 septiembre -> accidente no laboral
+dado de alta por curación 11 de septiembre
+En septiembre hizo 72,12€ horas extras por fuerza mayor
+BCC agosto=1628,73
+BCP agosto=1748,93 de las que 120,20 son horas extra
+El año anteror al mes de la baja hizo horas extra 150,25 en junio, 180,30 en mayo,120,20 en abril, 120,20 febrero
+irpf =12%
+
+
+accidente no laboral
+
+BRCC=1628,73/30=54,29
+
+2 SEPTIEMBRE, 3 SEPTIEMBRE, 4 SEPTIEMBRE -> NO COBRA
+
+(7 DÍAS) 4 SEPTIEMBRE - 11 SEPTIEMBRE -> 60% bc 54,29 X 7d =227,99 -> cargo de la mutua o inss
+TOTAL=227,99€
+
+Retribución de los días que trabajó: 1 de junio + 12 Junio-30 Junio =20 días
+SALARIO BRUTO
+20*(1081,82+108,18+240,20)/30=953,6
+
+	TOTAL DEVENGADO = 953,6 +227,99 +72,12= 1253,74
+
+BCCC salario = [(1081,82+108,18+240,40)/30] =47,68
+PAGAS EXTRA =(1081,82+108,18)*2/360= 6,61
+TOTAL=54,29 -> BCCC salario = 54,29*20=1085,8
+BminCCC=1351,20/30=45,04 -> ESTÁ DENTRO
+BmaxCCC=MUCHO MAS ALTA
+
+
+BCCC prestacion = BRcc = 1628,73/30=54,29 -> Comprobación dentro de la minnima del grupo 2 (está dentro de la mínima) y luego -> 54,29*10=542,90
+
+BCCC SEPTIMEBRE= 1085,8 + 542,90 = 1628,7
+
+
+BCCP salario = 54,29*20 + 72,12 =1085,8 +72,12=1157,92
+		|-> dentro del minimo
+
+BCCP prestacion = [1748,93-120,20/30]+[120,20+150,25+180,30+120,20+120,20]/360=54,29+1,92=56,21 -> comprobando si está dentro del min y max -> está
+
+TOTAL BCCP prestacion = 56,21 * 10= 562,1
+
+BCCP SEPTIEMBRE =1157,92+562,1=1720,02
+
+BH extras = 72,12
+
+BASE IRPF = total devengado - exento = 1025,72
+
+BCCC Sept -> 1628,4*4,7%= 76,53
+BCCP Sep -> 1720,02*(1,55%+0'1%)= 28,38
+BHextras sept -> 72,12 * 2% =1,44
+
+Total=106,35
+
+B Irpf sept -> 1253,71* 12% = 150,45
+
+SL=1253,74-(106,35+150,45)=996,94
+
+
+
+
+
